@@ -1,3 +1,10 @@
+This repository contains a website that is developed as part of assignment for Supervising undergraduate Dissertations/Projects (LTTC9008). 
+
+Theme: The undergraduate supervisor’s role and responsibilities and/or expectations with undergraduate students.
+
+
+*About the template and source:* 
+
 TXT by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
